@@ -52,7 +52,7 @@
                         <configuration>
                             <appendAssemblyId>false</appendAssemblyId>
                             <descriptors>
-                                <descriptor>setup-apache/prakashzip.xml</descriptor>
+                                <descriptor>setup-apache/zip.xml</descriptor>
                             </descriptors>
                         </configuration>
                     </execution>
